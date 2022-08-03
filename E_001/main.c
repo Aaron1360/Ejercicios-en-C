@@ -8,8 +8,8 @@ int main()
 
     printf("\n");
     printf("NAME: Aaron Moreno Villeda\n");
-    printf("DOB: October 30, 1997\n");
-    printf("MOBILE: 771-22-00-607");
+    printf("DOB: August 29, 1997\n");
+    printf("MOBILE: <AQUI VA TU NUMERO>");
 
 
     return 0;
